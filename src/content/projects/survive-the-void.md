@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/survive-the-void.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/survive-the-void.png"
+  - "/images/placeholders/survive-the-void.svg"
 ---
 
 Survive The Void is a prototype described in Dor Shem Tov’s portfolio, focusing on isometric survival under constant pressure, resource scarcity, and enemy threats.

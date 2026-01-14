@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/castle-force-td.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/castle-force-td.png"
+  - "/images/placeholders/castle-force-td.svg"
 ---
 
 Castle Force Td is a prototype described in Dor Shem Tov’s portfolio, focusing on tower defense with movable placements and reacting to changing enemy routes.

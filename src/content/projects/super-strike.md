@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/super-strike.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/super-strike.png"
+  - "/images/placeholders/super-strike.svg"
 ---
 
 Super Strike is a prototype described in Dor Shem Tov’s portfolio, focusing on auto-battle RPG pacing mixed with positional decision-making and satisfying payoffs.

@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/devoured.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/devoured.png"
+  - "/images/placeholders/devoured.svg"
 ---
 
 Devoured is a prototype described in Dor Shem Tov’s portfolio, focusing on creepy-cute 2.5D exploration with tension curves and environmental storytelling.

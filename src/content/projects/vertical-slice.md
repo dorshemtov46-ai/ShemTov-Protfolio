@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/vertical-slice.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/vertical-slice.png"
+  - "/images/placeholders/vertical-slice.svg"
 ---
 
 Vertical Slice was created for **Global Game Jam 2023**, with the goal of building a tiny but complete “slice” of a polished experience.

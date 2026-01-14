@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/orbit-defense.png"
+cover: "/images/placeholders/hero-placeholder.svg"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/orbit-defense.png"
+  - "/images/placeholders/orbit-defense.svg"
 ---
 
 Orbit Defense is a prototype described in Dor Shem Tov’s portfolio, focusing on 360° threat management and defending from enemies approaching along orbital paths.
