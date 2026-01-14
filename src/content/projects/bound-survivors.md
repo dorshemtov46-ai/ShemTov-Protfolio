@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/bound-survivors.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/bound-survivors.svg"
+  - "/images/placeholders/bound-survivors.png"
 ---
 
 Bound Survivors is a prototype described in Dor Shem Tov’s portfolio, focusing on co-op survivor-style combat with an emphasis on synergy, spacing, and team timing.

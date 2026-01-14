@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/peg-slinger.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/peg-slinger.svg"
+  - "/images/placeholders/peg-slinger.png"
 ---
 
 Peg Slinger is a prototype described in Dor Shem Tov’s portfolio, focusing on pachinko-style bouncing trajectories, board control, and satisfying chain reactions.

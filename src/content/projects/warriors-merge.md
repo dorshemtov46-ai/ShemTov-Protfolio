@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/warriors-merge.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/warriors-merge.svg"
+  - "/images/placeholders/warriors-merge.png"
 ---
 
 Warriors Merge is a prototype described in Dor Shem Tov’s portfolio, focusing on merge-based progression and base-versus-base combat with strong decision-making around inventory.

@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/ice-slingers.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/ice-slingers.svg"
+  - "/images/placeholders/ice-slingers.png"
 ---
 
 Ice Slingers is a prototype described in Dor Shem Tov’s portfolio, focusing on physics-based slingshot aiming, impact, and simple high-readability encounters.

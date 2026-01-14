@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/a-way-back.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/a-way-back.svg"
+  - "/images/placeholders/a-way-back.png"
 ---
 
 A Way Back is a prototype described in Dor Shem Tov’s portfolio, focusing on 2.5D Metroidvania exploration, ability gating, and satisfying backtracking routes.

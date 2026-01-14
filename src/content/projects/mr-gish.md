@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/mr-gish.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/mr-gish.svg"
+  - "/images/placeholders/mr-gish.png"
 ---
 
 Mr Gish is a prototype described in Dor Shem Tov’s portfolio, focusing on bubble-shooter style interactions built as a serious game to support emotional research.

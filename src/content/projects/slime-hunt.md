@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/slime-hunt.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/slime-hunt.svg"
+  - "/images/placeholders/slime-hunt.png"
 ---
 
 Slime Hunt is a prototype described in Dor Shem Tov’s portfolio, focusing on simple, readable strategy choices with minimal controls and clear outcomes.

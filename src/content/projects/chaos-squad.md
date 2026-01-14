@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/chaos-squad.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/chaos-squad.svg"
+  - "/images/placeholders/chaos-squad.png"
 ---
 
 Chaos Squad is a prototype described in Dor Shem Tov’s portfolio, focusing on survivor-like waves of enemies, upgrade synergies, and chaotic moment-to-moment tension.

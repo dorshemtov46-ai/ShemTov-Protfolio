@@ -6,11 +6,11 @@ role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+cover: "/images/placeholders/iris.png"
 links:
   video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/placeholders/iris.svg"
+  - "/images/placeholders/iris.png"
 ---
 
 Iris is a prototype described in Dor Shem Tov’s portfolio, focusing on third-person puzzle adventure design anchored in environmental interactions and camera readability.
