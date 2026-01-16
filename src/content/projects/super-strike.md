@@ -1,41 +1,32 @@
 ---
-title: "Super Strike"
+title: "Super Strike!"
 slug: "super-strike"
-summary: "An auto-battle RPG mixing strategic positioning with dynamic combo puzzles."
-role: "Game Designer"
+featured: true
+
+date: "2024-01-01"
+
+summary: "An over-the-top arcade brawler where timing charged attacks and combos turns each encounter into a flashy power fantasy."
+
+role: "Game Designer · Level Designer"
+tech: "Unity, C#, Mobile, Action"
+
+cover: "/images/super-strike-cover.png"
+
 tags:
+  - Level Designer
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
+
 gallery:
-  - "/images/placeholders/super-strike.svg"
+  - "/images/super-strike-cover.png"
 ---
 
-Super Strike is a prototype described in Dor Shem Tov’s portfolio, focusing on auto-battle RPG pacing mixed with positional decision-making and satisfying payoffs.
-
-## My Role
-
-- Designed the **core gameplay loop** and overall player experience  
-- Defined the main win/fail conditions and the feedback around them  
-- Adjusted balance and pacing based on internal playtests  
-- Documented the design so it could be iterated on quickly
-
-## Highlights
-
-- Clear, readable structure that makes the main mechanic easy to grasp  
-- Tight focus on a single strong idea instead of many half-finished systems  
-- Built to support rapid iteration and experimentation
-
-## Challenges & Solutions
-
-- **Scoping the experience**  
-  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
-
-- **Communicating feedback**  
-  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
-
-## Tech Stack
-
-- Unity and common modern game-design workflows (paper design, greybox, iteration)  
+Super Strike! is a punchy arcade action game focused on explosive special moves and readable telegraphs.
+I worked on combat flow, enemy patterns, and level scenarios that encourage players to experiment
+with timing, spacing, and power management.
