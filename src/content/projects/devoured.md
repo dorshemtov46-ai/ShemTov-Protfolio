@@ -1,41 +1,33 @@
 ---
 title: "Devoured"
 slug: "devoured"
+featured: true
+
+date: "2024-01-01"
+
 summary: "A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs."
-role: "Game Designer"
+
+role: "Game Designer · Level Designer"
+tech: "Unity, C#, PC, 2.5D Adventure"
+
+cover: "/images/devoured-cover.png"
+
 tags:
+  - Level Designer
   - Game Design
-  - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+  - PC
+
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  steam: ""
+  itch: ""
+  video: ""
+  download: ""
+
 gallery:
-  - "/images/placeholders/devoured.svg"
+  - "/images/devoured-cover.png"
 ---
 
-Devoured is a prototype described in Dor Shem Tov’s portfolio, focusing on creepy-cute 2.5D exploration with tension curves and environmental storytelling.
-
-## My Role
-
-- Designed the **core gameplay loop** and overall player experience  
-- Defined the main win/fail conditions and the feedback around them  
-- Adjusted balance and pacing based on internal playtests  
-- Documented the design so it could be iterated on quickly
-
-## Highlights
-
-- Clear, readable structure that makes the main mechanic easy to grasp  
-- Tight focus on a single strong idea instead of many half-finished systems  
-- Built to support rapid iteration and experimentation
-
-## Challenges & Solutions
-
-- **Scoping the experience**  
-  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
-
-- **Communicating feedback**  
-  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
-
-## Tech Stack
-
-- Unity and common modern game-design workflows (paper design, greybox, iteration)  
+Devoured follows a lone explorer through a hostile alien ecosystem filled with shifting hazards,
+predatory lifeforms, and limited safe zones. I contributed to level pacing, environmental storytelling,
+hazard encounter design, and moment-to-moment tension balancing to maintain a creeping sense of danger
+without overwhelming the player.
