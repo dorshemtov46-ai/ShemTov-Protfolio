@@ -2,58 +2,51 @@
 import Base from "../layouts/Base.astro";
 import { getAllProjects } from "../lib/projects";
 
-// Load all projects
 const allProjects = getAllProjects();
-
-// Simple "featured" selection – first few projects
 const featuredProjects = allProjects.slice(0, 6);
 ---
 
 <Base title="Dor Shem Tov — Game Designer & Product Manager">
-
   {/* HERO SECTION */}
-  <section class="grid gap-10 lg:gap-14 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] items-center">
-    {/* LEFT SIDE TEXT */}
-    <div class="space-y-5">
-      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
+  <section class="grid gap-10 lg:grid-cols-[minmax(0,1.3fr)_minmax(0,1fr)] items-center">
+    <div class="space-y-4">
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight">
         Dor Shem Tov
-        <span class="block text-lg sm:text-xl font-normal mt-3 flex items-center gap-2 text-accent">
-          Game Designer
-          <span class="inline-block w-1.5 h-1.5 rounded-full bg-accent"></span>
-          Product Manager
-        </span>
       </h1>
 
-      <p class="text-sm sm:text-base text-neutral-300 max-w-2xl leading-relaxed">
-        Creative and innovative game designer with a passion for crafting immersive gaming experiences.
-        Skilled in concept development, level design, and designing gameplay mechanics. Proficient in
-        industry-standard software and techniques. Committed to delivering engaging gameplay that captivates
-        players and drives success.
+      {/* YELLOW ROLE LINE */}
+      <p class="text-base sm:text-lg font-medium text-accent">
+        Level Designer • Game Designer • Product Manager
       </p>
 
-      <div class="flex flex-wrap gap-4 pt-2">
+      <p class="text-sm sm:text-base text-neutral-300 max-w-xl">
+        Creative and innovative game designer with a passion for crafting immersive gaming experiences.
+        Skilled in concept development, level design, and designing gameplay mechanics. Proficient in
+        industry-standard software and techniques. Committed to delivering engaging gameplay that
+        captivates players and drives success.
+      </p>
+
+      <div class="flex flex-wrap gap-3 mt-4">
         <a class="btn" href="/projects">View Projects</a>
-        <a class="btn" href="/resume">View Resume</a>
+        <a class="btn-secondary" href="/resume">View Resume</a>
       </div>
     </div>
 
-    {/* RIGHT SIDE PORTRAIT */}
-    <div class="flex justify-center lg:justify-end">
-      <div class="card p-0 overflow-hidden rounded-2xl border border-white/10 max-w-xs w-full">
-        <img
-          src="/images/dst-profile.jpg"
-          alt="Dor Shem Tov"
-          class="w-full aspect-[4/5] object-cover"
-          loading="lazy"
-        />
-      </div>
+    {/* PROFILE IMAGE */}
+    <div class="card p-0 overflow-hidden">
+      <img
+        src="/images/dst-profile.jpg"
+        alt="Dor Shem Tov profile photo"
+        class="w-full h-full object-cover rounded-xl"
+        loading="lazy"
+      />
     </div>
   </section>
 
   {/* FEATURED PROJECTS */}
-  <section class="mt-16 md:mt-20">
-    <div class="flex items-center justify-between gap-4 mb-6">
-      <h2 class="text-2xl sm:text-3xl font-bold">Featured Projects</h2>
+  <section class="mt-12">
+    <div class="flex items-center justify-between gap-4 mb-4">
+      <h2 class="text-2xl font-bold">Featured Projects</h2>
       <a href="/projects" class="text-sm text-accent hover:underline">
         View all projects →
       </a>
@@ -61,23 +54,20 @@ const featuredProjects = allProjects.slice(0, 6);
 
     {featuredProjects.length === 0 ? (
       <p class="text-sm text-neutral-400">
-        No projects found yet. Make sure your <code>src/content/projects</code> files are in place.
+        No projects found yet.
       </p>
     ) : (
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {featuredProjects.map((p) => (
           <a class="card block" href={`/projects/${p.slug}/`}>
-            <div class="mb-3 rounded-xl overflow-hidden">
-              <img
-                src={p.cover ?? "/images/hero-placeholder.svg"}
-                alt={p.title}
-                class="w-full h-44 object-cover"
-                loading="lazy"
-              />
-            </div>
-
+            <img
+              src={p.cover ?? "/images/hero-placeholder.svg"}
+              alt={p.title}
+              class="rounded-xl mb-3 w-full h-44 object-cover"
+              loading="lazy"
+            />
             <h3 class="text-lg font-semibold">{p.title}</h3>
-            <p class="text-sm opacity-80 mt-1">{p.summary}</p>
+            <p class="text-sm opacity-80">{p.summary}</p>
 
             {p.tags && p.tags.length > 0 && (
               <div class="mt-3 flex flex-wrap gap-2">
@@ -91,5 +81,4 @@ const featuredProjects = allProjects.slice(0, 6);
       </div>
     )}
   </section>
-
 </Base>
