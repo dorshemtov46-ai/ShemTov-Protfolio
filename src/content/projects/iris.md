@@ -1,41 +1,32 @@
 ---
 title: "Iris"
 slug: "iris"
-summary: "A narrative puzzle adventure with environmental interactions and third‑person traversal."
-role: "Game Designer"
+featured: false
+
+date: "2024-01-01"
+
+summary: "A third-person action-adventure prototype centered around environmental storytelling and traversal."
+
+role: "Game Designer · Level Designer"
+tech: "Unity, C#, PC, 3D Adventure"
+
+cover: "/images/iris-cover.png"
+
 tags:
+  - Level Designer
   - Game Design
-  - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+  - PC
+
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  steam: ""
+  itch: ""
+  video: ""
+  download: ""
+
 gallery:
-  - "/images/placeholders/iris.svg"
+  - "/images/iris-cover.png"
 ---
 
-Iris is a prototype described in Dor Shem Tov’s portfolio, focusing on third-person puzzle adventure design anchored in environmental interactions and camera readability.
-
-## My Role
-
-- Designed the **core gameplay loop** and overall player experience  
-- Defined the main win/fail conditions and the feedback around them  
-- Adjusted balance and pacing based on internal playtests  
-- Documented the design so it could be iterated on quickly
-
-## Highlights
-
-- Clear, readable structure that makes the main mechanic easy to grasp  
-- Tight focus on a single strong idea instead of many half-finished systems  
-- Built to support rapid iteration and experimentation
-
-## Challenges & Solutions
-
-- **Scoping the experience**  
-  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
-
-- **Communicating feedback**  
-  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
-
-## Tech Stack
-
-- Unity and common modern game-design workflows (paper design, greybox, iteration)  
+Iris explores a forgotten ruin filled with ancient structures, interactive landmarks, and puzzle-oriented
+navigation challenges. I contributed to spatial layout, traversal flow, onboarding, and environmental cues
+guiding players through branching paths and discovery points.
