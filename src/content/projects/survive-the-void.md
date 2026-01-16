@@ -1,41 +1,33 @@
 ---
-title: "Survive The Void"
+title: "Survive the Void"
 slug: "survive-the-void"
-summary: "An isometric survival title focused on gathering resources under pressure."
-role: "Game Designer"
+featured: true
+
+date: "2024-01-01"
+
+summary: "A cosmic action-survivor where players battle through alien swarms while warping between dimensional rifts."
+
+role: "Game Designer · Level Designer"
+tech: "Unity, C#, Mobile, Action Survivor"
+
+cover: "/images/survive-the-void-cover.png"
+
 tags:
+  - Level Designer
   - Game Design
   - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
+
 gallery:
-  - "/images/placeholders/survive-the-void.svg"
+  - "/images/survive-the-void-cover.png"
 ---
 
-Survive The Void is a prototype described in Dor Shem Tov’s portfolio, focusing on isometric survival under constant pressure, resource scarcity, and enemy threats.
-
-## My Role
-
-- Designed the **core gameplay loop** and overall player experience  
-- Defined the main win/fail conditions and the feedback around them  
-- Adjusted balance and pacing based on internal playtests  
-- Documented the design so it could be iterated on quickly
-
-## Highlights
-
-- Clear, readable structure that makes the main mechanic easy to grasp  
-- Tight focus on a single strong idea instead of many half-finished systems  
-- Built to support rapid iteration and experimentation
-
-## Challenges & Solutions
-
-- **Scoping the experience**  
-  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
-
-- **Communicating feedback**  
-  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
-
-## Tech Stack
-
-- Unity and common modern game-design workflows (paper design, greybox, iteration)  
+Survive the Void blends cosmic fantasy with relentless action-survivor gameplay. Players
+navigate dimensional rifts, upgrade abilities, and overcome escalating alien hordes.
+I contributed to encounter pacing, area progression, enemy patterns, and readability-focused
+FX direction during high-intensity moments.
