@@ -1,41 +1,32 @@
 ---
 title: "A Way Back"
 slug: "a-way-back"
+featured: true
+
+date: "2024-01-01"
+
 summary: "A metroidvania adventure emphasizing platform puzzles and backtracking mastery."
-role: "Game Designer"
+
+role: "Game Designer · Level Designer"
+tech: "Unity, C#, PC, Metroidvania"
+
+cover: "/images/a-way-back-cover.png"
+
 tags:
+  - Level Designer
   - Game Design
-  - Mobile
-cover: "/images/placeholders/hero-placeholder.svg"
+  - PC
+
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  steam: ""
+  itch: ""
+  video: ""
+  download: ""
+
 gallery:
-  - "/images/placeholders/a-way-back.svg"
+  - "/images/a-way-back-cover.png"
 ---
 
-A Way Back is a prototype described in Dor Shem Tov’s portfolio, focusing on 2.5D Metroidvania exploration, ability gating, and satisfying backtracking routes.
-
-## My Role
-
-- Designed the **core gameplay loop** and overall player experience  
-- Defined the main win/fail conditions and the feedback around them  
-- Adjusted balance and pacing based on internal playtests  
-- Documented the design so it could be iterated on quickly
-
-## Highlights
-
-- Clear, readable structure that makes the main mechanic easy to grasp  
-- Tight focus on a single strong idea instead of many half-finished systems  
-- Built to support rapid iteration and experimentation
-
-## Challenges & Solutions
-
-- **Scoping the experience**  
-  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
-
-- **Communicating feedback**  
-  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
-
-## Tech Stack
-
-- Unity and common modern game-design workflows (paper design, greybox, iteration)  
+A Way Back challenges players to navigate interlinked caverns filled with traversal puzzles, shortcuts,
+and unlockable abilities. I contributed to layout flow, puzzle readability, ability gating, and
+exploration incentives that reward curiosity and backtracking mastery.
