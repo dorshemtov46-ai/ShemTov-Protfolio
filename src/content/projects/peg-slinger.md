@@ -2,20 +2,18 @@
 title: "Pegslinger"
 slug: "peg-slinger"
 featured: true
-
 date: "2024-01-01"
 
-summary: "A fast-paced slingshot shooter where precision aiming and ricochets determine the outcome of each encounter."
+summary: "A pachinko-inspired combat game where players use color-based shots to attack different areas as a cowboy in the American West."
 
-role: "Game Designer · Level Designer"
-tech: "Unity, C#, Mobile, Physics-based controls"
+role: "Game Designer"
+tech: "Unity, C#"
 
-cover: "/images/pegslinger-cover.png"
+cover: "/images/peg-slinger-cover.png"
 
 tags:
-  - Level Designer
   - Game Design
-  - Mobile
+  - Project Management
 
 links:
   appstore: ""
@@ -24,9 +22,8 @@ links:
   download: ""
 
 gallery:
-  - "/images/pegslinger-cover.png"
+  - "/images/peg-slinger-cover.png"
 ---
 
-Pegslinger blends slingshot mechanics with tactical ricochet shots, challenging players to line up
-angles and chain hits efficiently. I contributed to encounter layout, physics feel tuning, and
-progression balance across early and mid-game levels.
+Pegslinger blends pachinko-style randomness with deliberate color-based decision-making,
+placing players in the role of a cowboy using precision shots to control combat outcomes across varied encounters.
