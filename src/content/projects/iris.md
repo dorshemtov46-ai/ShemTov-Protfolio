@@ -1,25 +1,23 @@
 ---
 title: "Iris"
 slug: "iris"
-featured: false
-
+featured: true
 date: "2024-01-01"
 
-summary: "A third-person action-adventure prototype centered around environmental storytelling and traversal."
+summary: "A third-person platformer with an emphasis on puzzle solving and adventure-driven exploration."
 
-role: "Game Designer · Level Designer"
-tech: "Unity, C#, PC, 3D Adventure"
+role: "Level Designer"
+tech: "Unity, C#"
 
 cover: "/images/iris-cover.png"
 
 tags:
-  - Level Designer
+  - Level Design
   - Game Design
-  - PC
 
 links:
-  steam: ""
-  itch: ""
+  appstore: ""
+  playstore: ""
   video: ""
   download: ""
 
@@ -27,6 +25,5 @@ gallery:
   - "/images/iris-cover.png"
 ---
 
-Iris explores a forgotten ruin filled with ancient structures, interactive landmarks, and puzzle-oriented
-navigation challenges. I contributed to spatial layout, traversal flow, onboarding, and environmental cues
-guiding players through branching paths and discovery points.
+Iris is a third-person platforming experience focused on exploration and environmental puzzles.
+Players progress by solving challenges that blend movement, observation, and problem-solving within an adventurous setting.
