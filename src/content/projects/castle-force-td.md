@@ -2,20 +2,19 @@
 title: "Castle Force TD"
 slug: "castle-force-td"
 featured: true
-
 date: "2024-01-01"
 
-summary: "A tactical tower defense with movable units enabling adaptive defensive planning."
+summary: "A tower-defense game that allows players to reposition their towers at any time, encouraging adaptive strategy and experimentation."
 
-role: "Game Designer · Level Designer"
-tech: "Unity, C#, Mobile, Tower Defense"
+role: "Game Designer"
+tech: "Unity, C#"
 
 cover: "/images/castle-force-td-cover.png"
 
 tags:
-  - Level Designer
+  - Level Design
   - Game Design
-  - Mobile
+  - Project Management
 
 links:
   appstore: ""
@@ -27,6 +26,5 @@ gallery:
   - "/images/castle-force-td-cover.png"
 ---
 
-Castle Force TD combines classic tower defense strategy with mobile unit placement.
-Players adapt their defenses to shifting enemy paths, requiring strong decision-making
-and spatial control. I designed levels, enemy pacing, and the adaptive wave system.
+Castle Force TD challenges traditional tower-defense conventions by letting players freely
+move towers during gameplay, shifting the focus from static planning to continuous tactical decision-making.
