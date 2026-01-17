@@ -4,7 +4,7 @@ slug: "a-way-back"
 featured: true
 date: "2024-01-01"
 
-summary: "A 2.5D metroidvania where players steal enemy abilities and use them as their own to progress through interconnected environments."
+summary: "A 2.5D metroidvania where players steal enemy abilities and use them to progress through interconnected environments."
 
 role: "Level Designer"
 tech: "Unity, C#"
