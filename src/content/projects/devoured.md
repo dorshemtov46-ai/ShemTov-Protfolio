@@ -2,24 +2,23 @@
 title: "Devoured"
 slug: "devoured"
 featured: true
-
 date: "2024-01-01"
 
-summary: "A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs."
+summary: "A 2.5D survival game with a creepy-yet-cute cartoon art style, where items can be devoured or used to trigger different effects."
 
-role: "Game Designer · Level Designer"
-tech: "Unity, C#, PC, 2.5D Adventure"
+role: "Game Designer"
+tech: "Unity, C#"
 
 cover: "/images/devoured-cover.png"
 
 tags:
-  - Level Designer
+  - Level Design
   - Game Design
-  - PC
+  - Project Management
 
 links:
-  steam: ""
-  itch: ""
+  appstore: ""
+  playstore: ""
   video: ""
   download: ""
 
@@ -27,7 +26,6 @@ gallery:
   - "/images/devoured-cover.png"
 ---
 
-Devoured follows a lone explorer through a hostile alien ecosystem filled with shifting hazards,
-predatory lifeforms, and limited safe zones. I contributed to level pacing, environmental storytelling,
-hazard encounter design, and moment-to-moment tension balancing to maintain a creeping sense of danger
-without overwhelming the player.
+Devoured is a 2.5D survival experience built around risk–reward decisions.
+Players must choose whether to consume items for immediate benefits or use them strategically
+to trigger specific effects, all within a distinct creepy-cute visual style.
