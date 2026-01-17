@@ -4,7 +4,7 @@ slug: "slime-hunt"
 featured: true
 date: "2024-01-01"
 
-summary: "A simplified turn-based strategy game where players defeat cute slimes using magical abilities and tactical choices."
+summary: "A simplified turn-based strategy game where players defeat cute slimes by choosing spells and abilities as a magician, focusing on clear choices and readable combat flow."
 
 role: "Game Designer"
 tech: "Unity, C#"
@@ -25,5 +25,5 @@ gallery:
   - "/images/slime-hunt-cover.png"
 ---
 
-Slime Hunt is a lighthearted turn-based strategy experience focused on clear decision-making and readability.
-Players take on the role of a magician, choosing spells and actions to efficiently defeat waves of charming but dangerous slimes.
+Slime Hunt is a lighthearted turn-based strategy experience designed around clarity and accessibility.
+Players step into the role of a magician, selecting spells and actions to overcome waves of charming but dangerous slimes.
